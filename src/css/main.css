@@ -1,6 +1,7 @@
 /* FONTS */
 #app .benton-ital {
-	font-family: BentonSansCond-RegItalic;
+	display: block;
+	font-family: BentonSansCond-BoldItalic;
 }
 
 /* COLOURS */
